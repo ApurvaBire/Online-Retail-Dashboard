@@ -29,9 +29,9 @@ The CSV file contains historical sales data from an online retail store. It incl
 - **CustomerID** – Customer identifier  
 - **Country** – Customer’s country  
 
-**Format:** CSV  
-**Records:** ~5,400  
-**Columns:** 8  
+   **Format:** CSV  
+   **Records:** ~5,400  
+   **Columns:** 8  
 ---
 ## Objective  
 - Analyze sales and revenue patterns  
