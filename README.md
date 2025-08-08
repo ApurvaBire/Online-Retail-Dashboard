@@ -2,7 +2,7 @@
 ### Task 4 – Data Visualisation: Empowering Business with Effective Insights
 
 ---
-## Project Overview  
+##💠Project Overview  
 
 This project involves building an interactive **Power BI dashboard** using historical sales data from an online retail store. Completed as part of the **TATA Data Visualisation Job Simulation – Task 4**, the goal was to transform raw transactional data into actionable business insights that support strategic decision-making.
 
@@ -17,7 +17,7 @@ The use of Power BI enables:
 This dashboard serves as a practical demonstration of how data visualization empowers businesses to make informed, data-driven decisions.
 
 ---
-## Dataset Description  
+##💠Dataset Description  
 The dataset includes historical sales data from a UK-based online retailer, capturing key information about transactions, products, and customers.
 The CSV file contains historical sales data from an online retail store. It includes details such as invoice number, product code, description, quantity sold, price per item, date of purchase, customer ID, and country.
 - **InvoiceNo** – Unique transaction ID  
@@ -33,18 +33,18 @@ The CSV file contains historical sales data from an online retail store. It incl
    **Records:** ~5,400  
    **Columns:** 8  
 ---
-## Objective  
+##💠Objective  
 - Analyze sales and revenue patterns  
 - Identify top-performing products  
 - Explore customer behavior  
 - Understand country-wise sales performance  
 ---
-## Tools & Technologies  
+##💠Tools & Technologies  
 - **Power BI Desktop** – Dashboard development  
 - **Power Query Editor** – Data cleaning and shaping  
 - **DAX** – Custom KPIs and measures  
 ---
-## Key Learnings  
+##💠Key Learnings  
 - Preparing and transforming raw data  
 - Creating user-friendly, interactive dashboards  
 - Leveraging filters, slicers, and visual elements  
